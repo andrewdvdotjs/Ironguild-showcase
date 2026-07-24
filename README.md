@@ -1,5 +1,3 @@
-<img width="612" height="1280" alt="image" src="https://github.com/user-attachments/assets/b40a9e1d-7d97-4e50-849a-294844d509fb" /><img width="612" height="1280" alt="image" src="https://github.com/user-attachments/assets/e1b7bbe9-8b37-4512-aa38-6f1376ec9010" /><img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/ac926ada-0de9-4ccd-97d3-a82189950e61" /># IronGuild
-
 A modern workout tracking app built with Flutter.
 
 ⚠️ This repository is a showcase of the project.
